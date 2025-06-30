@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 95%;
+    height: 90vh;
+   margin-top: 2rem;
+   margin-left: 2rem;
+   border-radius: 10px;
+}
+.div{
+    width: 90%;
+    height: 10vh;
+    margin-top: 31rem;
+    margin-left: 4rem;
+    border-radius: 20px;
+    display: flex;
+        gap: 30px;
+        justify-content: center;
+        padding: 10px 20px;
+        /* border: 2px solid red; */
+        background-color: white;
+
+}
+.underDiv{
+    width: 10%;
+    height: 7vh;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 58, 0.568);
+    color: aliceblue;
+    cursor: pointer;
+    transition: 0.2s ease-in-out all;
+
+}
+h4{
+    padding: 10px 30px;
+}
+.underDiv:active{
+    transform: scale(0.90);
+}
+.underDiv:hover{
+    background-color: rgb(131, 143, 196);
+    transition: 0.2s ease-in-out all;
+}
+#Orange{
+    background-color: orange;
+    height: 7vh;
+    border-radius: 10px;
+}
+#Yellow{
+    background-color: yellow;
+    height: 7vh;
+    border-radius: 10px;
+}
+#Grey{
+    background-color: gray;
+    height: 7vh;
+    border-radius: 10px;
+}
+
+#Black{
+    background-color: black;
+    height: 7vh;
+    border-radius: 10px;
+}
+#Pink{
+    background-color: pink;
+    height: 7vh;
+    border-radius: 10px;
+}
+#lightBlue{
+    background-color: lightblue;
+    height: 7vh;
+    border-radius: 10px;
+}
+#Red{
+    background-color: red;
+    height: 7vh;
+    border-radius: 10px;
+}
+#Blue{
+    background-color: blue;
+    height: 7vh;
+    border-radius: 10px;
+}
