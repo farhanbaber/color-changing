@@ -1,0 +1,31 @@
+ || 🎨 Color Changing Mini Project ||
+
+This is a simple and interactive **Color Changing** mini project built using **HTML**, **CSS**, and **JavaScript**. It allows users to change the background color of the webpage (or a specific element) either randomly or based on a selected color.
+
+||  🚀 Features || 
+
+- Change background color on button click
+- Generate random colors
+- Simple and clean UI
+- Responsive layout (optional, if you added it)
+
+|| 🛠️ Technologies Used ||
+
+- **HTML5** – Markup structure
+- **CSS3** – Styling and layout
+- **JavaScript (ES6)** – Logic for color change and interactivity
+
+ 📂 Project Structure
+
+||📸 Demo
+
+|| 🧠 How It Works
+
+1. The user clicks a button.
+2. JavaScript generates a color (random or predefined).
+3. The background color of the page or a section changes instantly.
+
+|| ✅ How to Use
+
+1. Download or clone the repository:
+   ```bash
